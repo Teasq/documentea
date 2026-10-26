@@ -1,17 +1,17 @@
 ![doc-logo.png](assets/doc-logo.png)
 # <div align="center"> Setting & Inspirations</div>
 
-# <div align="center"> <ins>Table of contents</ins></div>
 <!-- TOC -->
-* [<div align="center"> <ins>Table of contents</ins></div>](#div-aligncenter-instable-of-contentsinsdiv)
 * [<div align="center"> Foreword</div>](#div-aligncenter-foreworddiv)
+* [<div align="center"> Blacklist</div>](#div-aligncenter-blacklistdiv)
 * [<div align="center"> Setting Overview</div>](#div-aligncenter-setting-overviewdiv)
 * [<div align="center"> Visual Inspirations</div>](#div-aligncenter-visual-inspirationsdiv)
-    * [<div align="center"> Alien 1979 & Alien: Isolation</div>](#div-aligncenter-alien-1979--alien-isolationdiv)
-    * [<div align="center"> Prey (2017)</div>](#div-aligncenter-prey-2017div)
-    * [<div align="center"> Retrofuturism illustrations (Moebius, Tim White, John Berkey & Many, Many More)</div>](#div-aligncenter-retrofuturism-illustrations-moebius-tim-white-john-berkey--many-many-morediv)
-    * [<div align="center"> Further Material</div>](#div-aligncenter-further-materialdiv)
+  * [<div align="center"> Alien 1979 & Alien: Isolation</div>](#div-aligncenter-alien-1979--alien-isolationdiv)
+  * [<div align="center"> Prey (2017)</div>](#div-aligncenter-prey-2017div)
+  * [<div align="center"> Retrofuturism illustrations (Moebius, Tim White, John Berkey & Many, Many More)</div>](#div-aligncenter-retrofuturism-illustrations-moebius-tim-white-john-berkey--many-many-morediv)
+  * [<div align="center"> Further Material</div>](#div-aligncenter-further-materialdiv)
 <!-- TOC -->
+
 # <div align="center"> Foreword</div>
 
 This is intended to be an ever-expanding document that will most certainly be subject to additions

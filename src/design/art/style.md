@@ -1,3 +1,18 @@
+![doc-logo.png](assets/doc-logo.png)
+# <div align="center"> Style</div>
+
+<!-- TOC -->
+* [<div align="center"> Style Overview</div>](#div-aligncenter-style-overviewdiv)
+* [<div align="center"> Perspective</div>](#div-aligncenter-perspectivediv)
+* [<div align="center"> Colours</div>](#div-aligncenter-coloursdiv)
+* [<div align="center"> Loadout / Uniform Design</div>](#div-aligncenter-loadout--uniform-designdiv)
+* [<div align="center"> Miscellaneous Clothes Design</div>](#div-aligncenter-miscellaneous-clothes-designdiv)
+* [<div align="center"> Species Design </div>](#div-aligncenter-species-design-div)
+* [<div align="center"> Handheld Objects Design </div>](#div-aligncenter-handheld-objects-design-div)
+* [<div align="center"> Structures & Environment Objects Design </div>](#div-aligncenter-structures--environment-objects-design-div)
+* [<div align="center"> Walls & Tiles Design </div>](#div-aligncenter-walls--tiles-design-div)
+<!-- TOC -->
+
 # <div align="center"> Style Overview</div>
 
 - Funky utilizes a palette, combining some colours from [ArmaZen's Zenit-241](https://lospec.com/couvrefeuxf)
