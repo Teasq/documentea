@@ -1,4 +1,5 @@
 ![doc-logo.png](assets/doc-logo.png)
+# <div align="center"> Setting & Inspirations</div>
 
 # <div align="center"> <ins>Table of contents</ins></div>
 <!-- TOC -->
@@ -24,6 +25,19 @@ from beginner contributor guides to pixel art guides as well as [Funky's own dev
 
 To discuss this document or Funky's art in general you can contact Tea(d.d.tea on Discord!). This
 anything you are unsure about, make you uncomfortable, wish to add, remove, etc etc.
+
+# <div align="center"> Blacklist</div>
+Considering that Space Station is a melting pot of different sci-fi aesthetics and levels of tech,
+it's worth noting what Funky absolutely *isn't* before delving into what it is. Below is an (expanding)
+list of aesthetics, themes or concepts that will unequivocally not be explored in Funky's visuals:
+- Steampunk
+- Nanites/nanomachines
+- Hardlight technology
+- High-tech virtual reality and holographics & overwhelming neon signage
+
+<sub> (The existence of some of these concepts already within the game is not an endorsement. Space Station is
+a big project and not all of its concepts are unified between servers. Examples of the above will 
+be resprited and reflavoured to fit Funky's design.) </sub>
 
 # <div align="center"> Setting Overview</div>
 
