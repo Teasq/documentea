@@ -5,6 +5,7 @@
 * [<div align="center"> Style Overview</div>](#div-aligncenter-style-overviewdiv)
 * [<div align="center"> Perspective</div>](#div-aligncenter-perspectivediv)
 * [<div align="center"> Colours</div>](#div-aligncenter-coloursdiv)
+* [<div align="center"> Outlines</div>](#div-aligncenter-outlinesdiv)
 * [<div align="center"> Loadout / Uniform Design</div>](#div-aligncenter-loadout--uniform-designdiv)
 * [<div align="center"> Miscellaneous Clothes Design</div>](#div-aligncenter-miscellaneous-clothes-designdiv)
 * [<div align="center"> Species Design </div>](#div-aligncenter-species-design-div)
@@ -27,6 +28,7 @@
     like flashlights and helmet flashlights.
 - ALWAYS, ALWAYS, ALWAYS use examples from already merged sprites to help guide your style. This document
     would need to be 100+ pages long to cover every single use-case or exception.
+- Do not dither for any sprites that are not parallax backgrounds.
 
 <p align="center">
 <img src="assets/merge-examples.png" width=618 height=693.5>
@@ -64,6 +66,17 @@ Examples being purple for science, blue for command, red for security, orange fo
 
 <p align="center">
 <img src="assets/palette-guide-bigger.png">
+</p>
+
+# <div align="center"> Outlines</div>
+
+All sprites should have coloured outlines, with some minor anti-aliasing.\
+Coloured outlines are used to take advantage of the visual clarity outlines provide, while still maintaining
+the immersion that black outlines tend to break. Anti-aliasing helps to make the sprite softer and less angular
+in many cases, allowing you to make something look more circular for example.
+
+<p align="center">
+<img src="assets/outlines-showcase.png">
 </p>
 
 # <div align="center"> Loadout / Uniform Design</div>
